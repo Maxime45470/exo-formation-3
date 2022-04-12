@@ -1,0 +1,176 @@
+
+#burger {
+    margin-top: 15px;
+    
+}
+
+.nav {
+    padding-left: 35%;
+}
+
+.nav-link {
+    color: white;
+}
+
+header {
+    height: 500px;
+    background-image: url(/assets/img/piz1.jpg);
+    background-size: cover;
+}
+
+#imgp {
+    background-image: url(/assets/img/piz2.webp);
+    background-size: cover;
+    margin-top: 50px;
+    height: 180px;
+}
+
+.imgp2 {
+    background-image: url(/assets/img/piz3.jpg);
+    background-size: cover;
+    height: 370px;
+}
+
+h1 {
+    padding-left: 50px;
+    background-color: rgb(255, 217, 0);
+    width: 170px;
+    height: 35px;
+    font-size: 25px;
+}
+
+h4, h5 {
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(255, 217, 0);
+}   
+    
+.cadrejaune {
+    background-color: rgb(255, 217, 0);
+    width: 50%;
+    margin-left: 51%;
+    padding-left: 20px;
+}
+
+.gris {
+    background-color: gray;
+    height: 320px;
+    
+}
+
+.piz3 {
+    background-image: url(/assets/img/piz4.webp);
+    background-size: cover;
+    height: 600px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+
+
+
+
+#what {
+    background-color: rgb(80, 78, 78);
+    height: 300px;
+}
+
+#new {
+    color: white;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+
+#placeol {
+    padding-left: 30%;
+}
+
+.blanc {
+    color: white;
+}
+
+#cadreblanc {
+    height: 200px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+#cadrej {
+    background-color: rgb(255, 217, 0);
+    height: 50px;
+    width: 100%;
+}
+
+
+.menu {
+    border: 2px solid white;
+    padding-left: 20%;
+}
+
+
+.texte {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.jaune {
+    color: rgb(255, 217, 0);
+    padding-top: 50px;
+}
+
+
+#pmsg {
+    color: white;
+}
+
+
+.cadrejaune2 {
+    background-color: rgb(255, 217, 0);
+    width: 30%;
+    margin-left: 60%;
+    text-align: center;
+}
+
+#master {
+    color: white;
+    text-align: end;
+    margin: 60px;
+}
+
+#bandeau {
+    margin-top: 150px;
+    background-color: rgb(255, 217, 0);
+    height: 90px;
+    width: 100%;
+}
+
+h2 {
+    color: white;
+    font-size: 45px;
+    padding-left: 30%;
+    padding-top: 15px;
+}
+
+#read {
+    color: white;
+    margin-top: 70px;
+    background-color: rgb(255, 217, 0);
+    width: 250px;
+    border: 2px solid white;
+    padding-left: 70px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+
+footer {
+    background-color: goldenrod;
+    height: 150px;
+}
